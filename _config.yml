@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Victor Xiaoyu Wang"
-  avatar           : "profile.png"
-  bio              : "PhD student in Applied Mathematics @ University of Cambridge"
+  avatar           : "profile.jpg"
+  bio              : "PhD student in Applied Mathematics at University of Cambridge"
   location         : "Cambridge, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #" "
+  googlescholar    : "https://scholar.google.com/citations?user=6A4yQn4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #" "
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #" "
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # ""
   vine             :
   weibo            :
   xing             :
