@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have interests in optimisation methods, inverse problems, and machine learning. I received my PhD in Applied Mathemtics from University of Cambridge, supervised by Martin Benning, and Carola-Bibiane Schönlieb. My areas of study were non-smooth optimisation, deep neural networks, inverse problems and regularisation. 
+I have interests in optimisation methods, inverse problems, and machine learning. I received my PhD in Applied Mathemtics from University of Cambridge, supervised by Carola-Bibiane Schönlieb and Martin Benning. My areas of study were non-smooth optimisation, deep neural networks, inverse problems and regularisation.
 
 News
 ======
