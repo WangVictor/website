@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : " "
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Victor Xiaoyu Wang"
-  avatar           : "profile.jpg"
-  bio              : "PhD student in Applied Mathematics at University of Cambridge"
+  avatar           : "profile_pic.jpeg"
+  bio              : "PhD in Applied Mathematics at University of Cambridge"
   location         : "Cambridge, UK"
   employer         :
   pubmed           : #" "
